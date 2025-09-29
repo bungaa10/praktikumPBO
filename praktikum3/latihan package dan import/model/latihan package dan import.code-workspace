@@ -1,0 +1,13 @@
+{
+  "folders": [
+	{
+		"name": "latihan package dan import",
+		"path": ".."
+	},
+	{
+		"name": "latihan-array-collection",
+		"path": "../../latihan-array-collection"
+	}
+],
+  "settings": {}
+}
