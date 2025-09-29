@@ -1,3 +1,4 @@
+package multilevelInheritance;
 public class multilevelInheritance {
     class Buku {
         String judul;

@@ -1,3 +1,5 @@
+package hybridInheritance;
+
 public class hybridInheritance {
     class Buku {
         String judul;

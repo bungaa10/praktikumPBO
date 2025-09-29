@@ -1,3 +1,5 @@
+package hierarchicallInheritance;
+
 public class hierarchicalInheritance {
     class Buku {
         String judul;

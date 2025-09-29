@@ -1,3 +1,5 @@
+package multipleInheritance;
+
 interface Pinjam {
     void pinjam();
 }
